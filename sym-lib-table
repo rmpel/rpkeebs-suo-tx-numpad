@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "kicad-keyboard-parts") (type "KiCad") (uri "/Users/rmpel/Development/_HOBBY/KeyboardProjects/KiCAD/kicad-keyboard-parts.pretty/Schematic Library/kicad-keyboard-parts.kicad_sym") (options "") (descr ""))
+	(lib (name "ScottoKeebs") (type "KiCad") (uri "${SCOTTOKEEBS_KICAD}/symbols/ScottoKeebs.kicad_sym") (options "") (descr ""))
+)
