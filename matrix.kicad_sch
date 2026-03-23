@@ -2981,7 +2981,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 55.88 55.88 0)
 			(effects
 				(font
@@ -3150,7 +3150,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 73.66 40.64 0)
 			(effects
 				(font
@@ -3254,7 +3254,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 91.44 72.39 0)
 			(effects
 				(font
@@ -3500,7 +3500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 109.22 80.01 0)
 			(effects
 				(font
@@ -3604,7 +3604,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 67.31 120.65 0)
 			(effects
 				(font
@@ -3862,7 +3862,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 73.66 72.39 0)
 			(effects
 				(font
@@ -4336,7 +4336,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 109.22 55.88 0)
 			(effects
 				(font
@@ -4753,7 +4753,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 109.22 113.03 0)
 			(effects
 				(font
@@ -5597,7 +5597,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 91.44 88.9 0)
 			(effects
 				(font
@@ -5701,7 +5701,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 91.44 120.65 0)
 			(effects
 				(font
@@ -5805,7 +5805,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 91.44 40.64 0)
 			(effects
 				(font
@@ -6059,7 +6059,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 73.66 55.88 0)
 			(effects
 				(font
@@ -7349,7 +7349,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 55.88 88.9 0)
 			(effects
 				(font
@@ -7936,7 +7936,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 55.88 72.39 0)
 			(effects
 				(font
@@ -8117,7 +8117,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 73.66 88.9 0)
 			(effects
 				(font
@@ -8383,7 +8383,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 91.44 105.41 0)
 			(effects
 				(font
@@ -8564,7 +8564,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 55.88 40.64 0)
 			(effects
 				(font
@@ -8830,7 +8830,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 55.88 105.41 0)
 			(effects
 				(font
@@ -8934,7 +8934,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 91.44 55.88 0)
 			(effects
 				(font
@@ -9038,7 +9038,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 109.22 40.64 0)
 			(effects
 				(font
@@ -9454,7 +9454,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 73.66 105.41 0)
 			(effects
 				(font
