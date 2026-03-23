@@ -41,7 +41,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "~"
 				(at 0 0 0)
 				(effects
 					(font
@@ -69,6 +69,15 @@
 				)
 			)
 			(property "Sim.Pins" "1=K 2=A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C28646371"
 				(at 0 0 0)
 				(effects
 					(font
@@ -221,6 +230,15 @@
 			)
 			(property "Description" "RGB LED with integrated controller"
 				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C5242955"
+				(at 236.22 57.15 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2907,6 +2925,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "27bed1c8-b10b-48b7-a449-fe6b2f8e028d")
 		)
@@ -3000,6 +3027,15 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 55.88 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C28646371"
 			(at 55.88 55.88 0)
 			(effects
 				(font
@@ -3168,6 +3204,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C28646371"
+			(at 73.66 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "74810d40-d9a3-4cc9-9ef9-7a2fb7989a8a")
 		)
@@ -3255,6 +3300,15 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 91.44 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C28646371"
 			(at 91.44 72.39 0)
 			(effects
 				(font
@@ -3396,6 +3450,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9de40248-f2ed-44c5-b023-47bc80d8e9a0")
 		)
@@ -3483,6 +3546,15 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 109.22 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C28646371"
 			(at 109.22 80.01 0)
 			(effects
 				(font
@@ -3586,6 +3658,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C28646371"
+			(at 67.31 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0c376864-ab84-4b0a-8581-04ec108f0389")
 		)
@@ -3654,6 +3735,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ecb5a535-dc26-4c03-92c3-259237200104")
 		)
@@ -3715,6 +3805,15 @@
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 60.96 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3817,6 +3916,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C28646371"
+			(at 73.66 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ff369a9d-aeaa-477f-9c79-15865d7aa8f6")
 		)
@@ -3880,6 +3988,15 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 148.59 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3954,6 +4071,15 @@
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 85.09 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4088,6 +4214,15 @@
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 67.31 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4255,6 +4390,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C28646371"
+			(at 109.22 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "82228d8b-2cab-4cc5-9519-f3fc9ecb1f9f")
 		)
@@ -4316,6 +4460,15 @@
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 85.09 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4393,6 +4546,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "27bed1c8-b10b-48b7-a449-fe6b2f8e028f")
 		)
@@ -4462,6 +4624,15 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 189.23 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4636,6 +4807,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C28646371"
+			(at 109.22 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "63d42250-d5d9-44a2-aa9f-2a08506abc1a")
 		)
@@ -4697,6 +4877,15 @@
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 85.09 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4767,6 +4956,15 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 189.23 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5173,6 +5371,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "27bed1c8-b10b-48b7-a449-fe6b2f8e0292")
 		)
@@ -5249,6 +5456,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "27bed1c8-b10b-48b7-a449-fe6b2f8e0293")
 		)
@@ -5318,6 +5534,15 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 189.23 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5426,6 +5651,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C28646371"
+			(at 91.44 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dfb6cc65-0aeb-4a7d-85b6-3a82b0f92615")
 		)
@@ -5513,6 +5747,15 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 91.44 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C28646371"
 			(at 91.44 120.65 0)
 			(effects
 				(font
@@ -5616,6 +5859,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C28646371"
+			(at 91.44 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2ca80138-a13d-4509-9778-e6af0e3bc0a9")
 		)
@@ -5679,6 +5931,15 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 189.23 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5852,6 +6113,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C28646371"
+			(at 73.66 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ab03353c-8968-45b2-b6b3-20dd8fb62e0d")
 		)
@@ -5913,6 +6183,15 @@
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 102.87 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5983,6 +6262,15 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 168.91 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6264,6 +6552,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "27bed1c8-b10b-48b7-a449-fe6b2f8e0297")
 		)
@@ -6331,6 +6628,15 @@
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 102.87 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6534,6 +6840,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6dd3830d-4ab3-43f1-89ee-5bd829a5ba89")
 		)
@@ -6597,6 +6912,15 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 158.75 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6678,6 +7002,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3c9a8d0b-9e37-4938-a7a4-e411d625978c")
 		)
@@ -6746,6 +7079,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ba18140a-d1b6-4ed2-9492-f9ed1b1a1ea2")
 		)
@@ -6806,6 +7148,15 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 49.53 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
 			(at 49.53 38.1 0)
 			(effects
 				(font
@@ -6948,6 +7299,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "45620737-58c3-48f8-871b-0dbc3b5c9f57")
 		)
@@ -7043,6 +7403,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C28646371"
+			(at 55.88 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "97e97b0f-136d-43b5-bcb6-2a6291685648")
 		)
@@ -7104,6 +7473,15 @@
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 49.53 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7174,6 +7552,15 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 213.36 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7257,6 +7644,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "27bed1c8-b10b-48b7-a449-fe6b2f8e029a")
 		)
@@ -7326,6 +7722,15 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 189.23 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7475,6 +7880,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "27bed1c8-b10b-48b7-a449-fe6b2f8e029c")
 		)
@@ -7576,6 +7990,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C28646371"
+			(at 55.88 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e36364d2-539a-4c17-bf2c-7a1af36178de")
 		)
@@ -7637,6 +8060,15 @@
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 49.53 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7739,6 +8171,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C28646371"
+			(at 73.66 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "32f904a9-8130-42c6-9f50-02b7486af813")
 		)
@@ -7800,6 +8241,15 @@
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 67.31 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7870,6 +8320,15 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 168.91 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7978,6 +8437,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C28646371"
+			(at 91.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e89cb2ef-8a55-423a-97dd-1d9084d25660")
 		)
@@ -8039,6 +8507,15 @@
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 67.31 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8141,6 +8618,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C28646371"
+			(at 55.88 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9a7d3c85-ed24-45c5-9d63-483e2a8b3c6b")
 		)
@@ -8202,6 +8688,15 @@
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 85.09 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8272,6 +8767,15 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 213.36 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8380,6 +8884,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C28646371"
+			(at 55.88 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d507e889-e0e3-40e6-9226-2c9375e10441")
 		)
@@ -8475,6 +8988,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C28646371"
+			(at 91.44 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "adc983f2-071b-4fcd-846f-81cc1ad9f4c6")
 		)
@@ -8562,6 +9084,15 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 109.22 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C28646371"
 			(at 109.22 40.64 0)
 			(effects
 				(font
@@ -8705,6 +9236,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "27bed1c8-b10b-48b7-a449-fe6b2f8e029f")
 		)
@@ -8779,6 +9319,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c0538e98-4546-463c-a278-6c65550dd851")
 		)
@@ -8842,6 +9391,15 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 168.91 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8950,6 +9508,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C28646371"
+			(at 73.66 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d74f291c-17eb-47cb-9eeb-8821755a2640")
 		)
@@ -9011,6 +9578,15 @@
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 67.31 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5156480"
+			(at 49.53 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9143,6 +9719,15 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 148.59 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5242955"
+			(at 236.22 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
