@@ -32035,7 +32035,7 @@
 		(tags "Miniature Crystal Clock Oscillator ECS 2520MV series SMD SMT HCMOS")
 		(property "Reference" "Y1"
 			(at 0 2.5 0)
-			(layer "B.SilkS")
+			(layer "B.Fab")
 			(uuid "00d3bf61-3f6a-4abe-b53b-cf8522ee885e")
 			(effects
 				(font
@@ -32045,7 +32045,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "XTAL OSC XO 8.0000MHZ HCMOS SMD"
+		(property "Value" "XTAL OSC XO 25.0000MHZ HCMOS SMD"
 			(at 0 -2.5 0)
 			(layer "B.Fab")
 			(uuid "0e257e6f-d46b-4205-81f2-18ad695690fb")
@@ -32085,7 +32085,7 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" "1923-LFSPXO072801CT-ND"
+		(property "DigiKey" "XC2198CT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43314,6 +43314,18 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "fc087640-9e44-41ff-8ac4-d02e3b1196ea")
+	)
+	(gr_text "25MHz"
+		(at 155.755543 93.984351 270)
+		(layer "B.SilkS")
+		(uuid "185cc242-dcf5-4184-919c-a80b84f627a9")
+		(effects
+			(font
+				(size 1.1 1.5)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
 	)
 	(gr_text "U1: stm32f411ce\nU2: XC6206\nU3: USBLC6-2SC6"
 		(at 134.8125 58.1025 0)
