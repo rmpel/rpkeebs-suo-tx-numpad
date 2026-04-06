@@ -182,271 +182,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "LED:SK6812MINI-E"
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "LED"
-				(at 5.08 5.715 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify right bottom)
-				)
-			)
-			(property "Value" "SK6803MINI-E-001 LCSC C5242955"
-				(at 1.27 -5.715 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-				(at 1.27 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-				(at 2.54 -9.525 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "RGB LED with integrated controller"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC" "C5242955"
-				(at 236.22 57.15 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "RGB LED NeoPixel addressable"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SK6812MINI-E_0_0"
-				(text "RGB"
-					(at 2.286 -4.191 0)
-					(effects
-						(font
-							(size 0.762 0.762)
-						)
-					)
-				)
-			)
-			(symbol "SK6812MINI-E_0_1"
-				(polyline
-					(pts
-						(xy 1.27 -2.54) (xy 1.778 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -3.556) (xy 1.778 -3.556)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.286 -1.524) (xy 1.27 -2.54) (xy 1.27 -2.032)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.286 -2.54) (xy 1.27 -3.556) (xy 1.27 -3.048)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.683 -1.016) (xy 3.683 -3.556) (xy 3.683 -4.064)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 4.699 -1.524) (xy 2.667 -1.524) (xy 3.683 -3.556) (xy 4.699 -1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 4.699 -3.556) (xy 2.667 -3.556)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 5.08 5.08)
-					(end -5.08 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-			(symbol "SK6812MINI-E_1_1"
-				(pin input line
-					(at -7.62 0 0)
-					(length 2.54)
-					(name "DIN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 7.62 270)
-					(length 2.54)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 -7.62 90)
-					(length 2.54)
-					(name "VSS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 7.62 0 180)
-					(length 2.54)
-					(name "DOUT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Switch:SW_Push_45deg"
 			(pin_numbers
 				(hide yes)
@@ -604,6 +339,261 @@
 					(at 2.54 -2.54 180)
 					(length 0)
 					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "kicad-keyboard-parts:SK6812MINI-E"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 5.08 5.715 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right bottom)
+				)
+			)
+			(property "Value" "SK6812MINI-E"
+				(at 1.27 -5.715 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E"
+				(at 1.27 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
+				(at 2.54 -9.525 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Reverse-mount RGB LED with integrated controller"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "RGB LED NeoPixel Mini addressable"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SK6812MINI-E_0_0"
+				(text "RGB"
+					(at 2.286 -4.191 0)
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+			)
+			(symbol "SK6812MINI-E_0_1"
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 1.778 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -3.556) (xy 1.778 -3.556)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 -1.524) (xy 1.27 -2.54) (xy 1.27 -2.032)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 -2.54) (xy 1.27 -3.556) (xy 1.27 -3.048)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.683 -1.016) (xy 3.683 -3.556) (xy 3.683 -4.064)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.699 -1.524) (xy 2.667 -1.524) (xy 3.683 -3.556) (xy 4.699 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.699 -3.556) (xy 2.667 -3.556)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 5.08 5.08)
+					(end -5.08 -5.08)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "SK6812MINI-E_1_1"
+				(pin input line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "DIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 7.62 270)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "DOUT"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2871,7 +2861,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 189.23 77.47 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2896,7 +2886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 187.96 69.85 0)
 			(effects
 				(font
@@ -3941,7 +3931,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 148.59 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3966,7 +3956,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 149.86 105.41 0)
 			(effects
 				(font
@@ -4492,7 +4482,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 148.59 77.47 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4517,7 +4507,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 147.32 69.85 0)
 			(effects
 				(font
@@ -4577,7 +4567,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 189.23 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4602,7 +4592,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 190.5 63.5 0)
 			(effects
 				(font
@@ -4909,7 +4899,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 189.23 143.51 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4934,7 +4924,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 187.96 135.89 0)
 			(effects
 				(font
@@ -5317,7 +5307,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 168.91 29.21 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5342,7 +5332,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 167.64 21.59 0)
 			(effects
 				(font
@@ -5402,7 +5392,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 168.91 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5427,7 +5417,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 170.18 105.41 0)
 			(effects
 				(font
@@ -5487,7 +5477,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 189.23 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5512,7 +5502,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 190.5 105.41 0)
 			(effects
 				(font
@@ -5884,7 +5874,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 189.23 119.38 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5909,7 +5899,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 187.96 111.76 0)
 			(effects
 				(font
@@ -6215,7 +6205,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 168.91 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6240,7 +6230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 170.18 63.5 0)
 			(effects
 				(font
@@ -6498,7 +6488,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 148.59 119.38 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6523,7 +6513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 147.32 111.76 0)
 			(effects
 				(font
@@ -6865,7 +6855,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 158.75 143.51 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6890,7 +6880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 157.48 135.89 0)
 			(effects
 				(font
@@ -7505,7 +7495,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 213.36 87.63 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7530,7 +7520,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 205.74 88.9 0)
 			(effects
 				(font
@@ -7590,7 +7580,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 213.36 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7615,7 +7605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 214.63 63.5 0)
 			(effects
 				(font
@@ -7675,7 +7665,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 189.23 29.21 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7700,7 +7690,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 187.96 21.59 0)
 			(effects
 				(font
@@ -7826,7 +7816,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 148.59 29.21 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7851,7 +7841,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 147.32 21.59 0)
 			(effects
 				(font
@@ -8273,7 +8263,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 168.91 119.38 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8298,7 +8288,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 167.64 111.76 0)
 			(effects
 				(font
@@ -8720,7 +8710,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 213.36 128.27 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8745,7 +8735,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 205.74 129.54 0)
 			(effects
 				(font
@@ -9182,7 +9172,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 213.36 29.21 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9207,7 +9197,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 212.09 21.59 0)
 			(effects
 				(font
@@ -9344,7 +9334,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 168.91 77.47 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9369,7 +9359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 167.64 69.85 0)
 			(effects
 				(font
@@ -9672,7 +9662,7 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812MINI-E")
+		(lib_id "kicad-keyboard-parts:SK6812MINI-E")
 		(at 148.59 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9697,7 +9687,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV"
+		(property "Footprint" "kicad-keyboard-parts:MX_SK6812MINI-E_REV_ROTATED"
 			(at 149.86 63.5 0)
 			(effects
 				(font
