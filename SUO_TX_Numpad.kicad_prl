@@ -43,6 +43,7 @@
       "drc_errors",
       "drawing_sheet",
       "pads",
+      "zones",
       "drc_warnings",
       "conflict_shadows",
       "shapes"
